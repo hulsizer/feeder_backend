@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+   id: 
+  facebook_id: 9.99
+  google_id: 9.99
+  twitter_id: 9.99
+
+two:
+   id: 
+  facebook_id: 9.99
+  google_id: 9.99
+  twitter_id: 9.99
